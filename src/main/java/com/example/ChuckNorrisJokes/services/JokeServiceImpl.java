@@ -1,7 +1,6 @@
 package com.example.ChuckNorrisJokes.services;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
 @Service
